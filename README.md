@@ -1,2 +1,18 @@
-# string_manipulator
-just some bs i did because i like a web ui for string manipulation and everything online has ads.
+# String manipulator
+
+Application that applies sequence of manipulations to string
+
+Interactive doc available at https://mishankov.github.io/string-manipulator/docs
+
+Available manipulations:
+
+- Replace
+- Prepend
+- Append
+- Split, get from index
+- Compose
+- Slice
+- Split-compose
+- Trim
+- Case
+- Split-join
